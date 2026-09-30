@@ -1,0 +1,6 @@
+{
+  "name": "FlowForge — Visual Automation Engine",
+  "description": "Open-source visual workflow automation engine featuring an interactive node canvas, triggers, webhooks, JSON transformations, branching, rate limiting, and plugin architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
